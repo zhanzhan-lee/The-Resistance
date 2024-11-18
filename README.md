@@ -1,6 +1,7 @@
 
 
 # CITS-3011 Project  
+**`Some mathematical expressions are not displayed, please check README.pdf`**
  - #### Zhanyi(Zane) Li - Student ID:24103639
 ## 1. **Introduction**
    - **Background**: We will develop an agent for The Resistance, aiming to outperform reference agents. strategies.
