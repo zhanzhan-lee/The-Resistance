@@ -2,7 +2,7 @@
 
 # CITS-3011 Project  
 **`Some mathematical expressions are not displayed, please check README.pdf`**
- - #### Zhanyi(Zane) Li - Student ID:24103639
+
 ## 1. **Introduction**
    - **Background**: We will develop an agent for The Resistance, aiming to outperform reference agents. strategies.
    - **Overview**:My development focused on three agents: **Heuristic -> Bayesian -> Bayesian_Heuristic**; The **`Bayesian_Heuristic`** integrates multiple techniques, and during this process, I conducted horizontal testing and analysis across all agents to refine and optimize its performance
